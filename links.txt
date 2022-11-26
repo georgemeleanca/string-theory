@@ -1,0 +1,10 @@
+Strings: 
+https://journey.study/v2/learn/materials/competencies/javascript-basics/javascript-data-types.md
+
+
+Arrays: 
+https://journey.study/v2/learn/materials/competencies/javascript-basics/javascript-arrays.md
+
+
+Regular Expressions: 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
